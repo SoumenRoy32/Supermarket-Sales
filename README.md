@@ -27,6 +27,9 @@ Rating: Customer stratification rating on their overall shopping experience (On 
 Analysis:
 I have done the analysis and created the dashboard on Power BI.
 
+Results: 
+Analysis was done based on 3 months of collected data. Total Male Customers were 499 and Female Customers were 501. Total Sales 322.97K including taxes, 307.59K excluding taxes and 15.38K was only taxes in that Supermarket. Pick time for the sales was in between 2 to 3 pm. Female Cutomer spents more on Fashion, Food beverages, Sports and travel where as Male Cutomer spends more on electronic accessories. Top 3 Sales were on Food, Sports and Electronics. Last 3 Sales were on Fashions, Home and Health products. Most of the transactions were made through Ewallent and Cash followed by Credit Card. Overall 42.6% customers got good satisfaction, 40% customers got best satisfactions and 17.4% customers received bad experience.
+
 YouTube:
 https://youtu.be/iXr7WK0ZBRA
 
